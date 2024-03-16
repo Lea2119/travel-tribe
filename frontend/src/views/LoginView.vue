@@ -25,7 +25,7 @@
           @click:append-inner="visible = !visible"
           class="ga-2"
         ></v-text-field>
-        <v-btn class="mt-2" type="submit" block color="purple" variant="flat">Submit</v-btn>
+        <v-btn type="submit" block color="purple" variant="flat">Submit</v-btn>
       </v-form>
     </v-card>
   </div>
